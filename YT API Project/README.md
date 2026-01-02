@@ -27,16 +27,21 @@
 
 - Most of the videos on the channel are less than approximately 150 seconds long.
   <br>채널의 대부분 동영상은 약 150초 미만입니다.
-- The worst-performing video on the channel is *SDC 2017 Session: Made for Samsung: How Partners Maximized the Program to Reach Premium Customers*, with only 236 views.
-  <br>채널에서 가장 성과가 낮은 동영상은 조회수 236회인 *SDC 2017 Session: Made for Samsung: How Partners Maximized the Program to Reach Premium Customers*입니다.
 - The best-performing video on the channel is *Official Replay | Galaxy Event October 2025 | Samsung*, which gained 84 million views.
   <br>채널에서 가장 성과가 높은 동영상은 Official *Replay | Galaxy Event October 2025 | Samsung*으로, 조회수는 8,400만 회입니다.
+![Best Videos](https://github.com/rinaguskova/Images/blob/main/10%20Best-Performing%20Videos.png)
+- The worst-performing video on the channel is *SDC 2017 Session: Made for Samsung: How Partners Maximized the Program to Reach Premium Customers*, with only 236 views.
+  <br>채널에서 가장 성과가 낮은 동영상은 조회수 236회인 *SDC 2017 Session: Made for Samsung: How Partners Maximized the Program to Reach Premium Customers*입니다.
+ ![Worst Videos](https://github.com/rinaguskova/Images/blob/main/10%20Worst-Performing%20Videos.png)
 - After the slump in 2018-2019, the number of videos published yearly has been showing an increasing trend, with 2025 being the year with the biggest number of published videos.
   <br>2018~2019년의 침체 이후, 연간 게시된 동영상 수는 증가 추세를 보이고 있으며, 2025년이 가장 많은 동영상이 게시된 해입니다.
--  The least number of videos were published on weekends. Wednesday, Thursday and Friday look like quite popular days for uploading content on the channel.
+![Count of Videos by Year](https://github.com/rinaguskova/Images/blob/main/Count%20of%20Yearly%20Published%20Videos.png)
+-  The least number of videos were published on weekends. Wednesday, Thursday, and Friday look like quite popular days for uploading content on the channel.
   <br>주말에는 동영상 게시 수가 가장 적었습니다. 수요일, 목요일, 금요일은 채널에서 콘텐츠를 업로드하기에 비교적 인기 있는 날로 보입니다.
-- There is a strong correlation (0.91) between like and comment count. So, the more likes the video has, the more comments are left below it and vice versa.
+- There is a strong correlation (0.91) between likes and comment count. So, the more likes the video has, the more comments are left below it, and vice versa.
   <br>좋아요 수와 댓글 수 사이에는 강한 상관관계(0.91)가 있습니다. 즉, 동영상의 좋아요 수가 많을수록 댓글도 많이 달리며, 그 반대도 마찬가지입니다.
-- The words *Galaxy* and *AI* are most often used in video titles, tags and descriptions.
+- The words *Galaxy* and *AI* are most often used in video titles, tags, and descriptions.
   <br>동영상 제목, 태그, 설명에서 Galaxy와 AI라는 단어가 가장 자주 사용됩니다.
-
+![Word Cloud Titles](https://github.com/rinaguskova/Images/blob/main/Word%20Cloud%20of%20Channel%20Titles.png)
+![Word Cloud Tags](https://github.com/rinaguskova/Images/blob/main/Word%20Cloud%20of%20Channel%20Tags.png)
+![Word Cloud Descriptions](https://github.com/rinaguskova/Images/blob/main/Word%20Cloud%20of%20Channel%20Descriptions.png)
