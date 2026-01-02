@@ -43,5 +43,3 @@
 - The words *Galaxy* and *AI* are most often used in video titles, tags, and descriptions.
   <br>동영상 제목, 태그, 설명에서 Galaxy와 AI라는 단어가 가장 자주 사용됩니다.
 ![Word Cloud Titles](https://github.com/rinaguskova/Images/blob/main/Word%20Cloud%20of%20Channel%20Titles.png)
-![Word Cloud Tags](https://github.com/rinaguskova/Images/blob/main/Word%20Cloud%20of%20Channel%20Tags.png)
-![Word Cloud Descriptions](https://github.com/rinaguskova/Images/blob/main/Word%20Cloud%20of%20Channel%20Descriptions.png)
