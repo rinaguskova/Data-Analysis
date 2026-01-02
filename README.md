@@ -1,6 +1,6 @@
 # Data-Analysis-Portfolio
 
-Welcome to my Data Analyst portfolio. I’m Rina, a data analyst with 5 years of experience delivering data-driven insights to support business decision-making. Here’s a snapshot of what I’ve worked on.
+Welcome to my Data Analyst portfolio. I’m Rina, a data analyst with 5 years of experience delivering insights to support business decision-making. Here’s a snapshot of what I’ve worked on.
 
 * Delivered product analytics and financial reports (P&L, benchmarking, price positioning, sales simulations), enabling data-driven pricing and sales strategy decisions
 * Led the design and delivery of an end-to-end data analytics solution in collaboration with a cross-functional team
