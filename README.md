@@ -17,7 +17,7 @@ Welcome to my Data Analyst portfolio. I’m Rina, a data analyst with 5 years of
 * 국가공인 자격증. SQL 개발자, 2025
 
 Below are two projects that demonstrate my approach to building analytical reports and the logic behind deriving insights and conclusions.
-Project 1: Shopping Mall Customers Segmentation
+<br>Project 1: Shopping Mall Customers Segmentation
 
 
 
