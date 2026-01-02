@@ -1,4 +1,4 @@
-**Project Overview / 프로젝트 개요**
+## Project Overview / 프로젝트 개요
 
 <br>The project is based on data of Samsung channel (downloaded 2025-12-18), obtained from YouTube via API. The marketing team can use this project for the following purposes:
 <br>본 프로젝트는 YouTube API를 통해 수집한 삼성(Samsung) 채널의 데이터(2025-12-18 다운로드 기준)를 기반으로 합니다. 마케팅 팀은 해당 프로젝트를 통해 수집한 데이터로 다음과 같은 목적에 활용할 수 있습니다.
@@ -12,7 +12,7 @@
 - Comparing channels with each other (by choosing other channels and downloading their data)
   <br>다른 채널을 선택해 데이터를 다운로드함으로써 채널 간 비교 분석
 
-**Project Objective / 프로젝트 목표**
+## Project Objective / 프로젝트 목표
 
 - Learning about the Samsung YouTube channel statistics
   <br>삼성 YouTube 채널 통계를 학습하여 현황을 파악
@@ -23,7 +23,7 @@
 - Visualizing most-frequently used words in video titles, tags, and descriptions
   <br>영상 제목, 태그, 설명에서 가장 자주 사용되는 단어를 시각화
 
-**Summary and Conclusions / 요약 및 결론**
+## Summary and Conclusions / 요약 및 결론
 
 - Most of the videos on the channel are less than approximately 150 seconds long.
   <br>채널의 대부분 동영상은 약 150초 미만입니다.
