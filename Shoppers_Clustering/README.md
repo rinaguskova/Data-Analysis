@@ -40,7 +40,7 @@ Below are the results of clusterisation performed on the data set and comments o
 |Budget Savers <br> 12%|Low income, low score|Saving as the main goal <br> Sales, free merch, food tastings, discounts for various social groups <br> Focus on availability and accessibility, potential growth to Steady Shoppers|
 |Deal Hunters <br> 11%|Low income, high score|People with enough time and interest to look for various deals and promotions<br> "Hidden" sales, content on saving strategies, short-time promotions, gamefication of shopping experience <br>Potential growth to Steady Shoppers|
 |Steady Shoppers <br> 41%|Average income, average score|The largest group of customers <br> Loyalty programs, seasonal deals, regular bonuses <br> Focus on retention and encouragment on more spending|
-|High Rollers <br>17%|High income, low score|Personalization, privacy and exclusiveness<br> VIP service, personal assistants, reservations and services available through app to save time and ensure convenience|
+|High Rollers <br>17%|High income, low score|Personalization, privacy, and exclusiveness<br> VIP service, personal assistants, reservations, and services available through app to save time and ensure convenience|
 |Prime Spenders <br> 20%|High income, high score|The most valuable customers <br> VIP service, personal assistants, private locations, exclusive events, early access, premium club members<br>Focus on retention|
 
 |그룹 | 잠재 고객 특징 | 코멘트|
@@ -50,3 +50,5 @@ Below are the results of clusterisation performed on the data set and comments o
 |Steady Shoppers <br> 41% |평균 소득, 평균 점수 | 가장 큰 고객군 <br> 로열티 프로그램, 시즌별 할인, 정기 보너스  <br>유지 및 추가 소비 유도에 집중|
 |High Rollers <br> 17%	|고소득, 낮은 점수	| 개인화, 프라이버시, 독점성 강조 <br> VIP 서비스, 개인 어시스턴트, 앱을 통한 예약 및 서비스 제공|
 |Prime Spenders <br> 20% |고소득, 높은 점수 | 최상위 가치 고객 <br> VIP 서비스, 개인 어시스턴트, 전용 공간, 독점 이벤트, 얼리 액세스, 프리미엄 클럽 회원 <br> 유지에 집중|
+
+![Bivariate Clustering](https://github.com/rinaguskova/Images/blob/main/clustering_bivaraiate.png)
