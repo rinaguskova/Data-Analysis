@@ -18,12 +18,9 @@ Welcome to my Data Analyst portfolio. I’m Rina, a data analyst with 5 years of
 
 Below are two projects that demonstrate my approach to building analytical reports and the logic behind deriving insights and conclusions.
 <br>**Project 1:** [Shopping Mall Customers Segmentation](https://github.com/rinaguskova/Data-Analysis-Portfolio/tree/main/Shoppers_Clustering)
-
-
+The project is based on open-source data that describes shopping mall customers with spending, income, and other dimensions. There, I divide mall target customers into approachable groups using the K-means Clustering Algorithm, and create subsets of the market based on demographic and behavioral criteria to better understand the target for marketing activities, using summary statistics on the clusters.
 
 **Project 2:** [Samsung YouTube Channel Data Analysis](https://github.com/rinaguskova/Data-Analysis-Portfolio/tree/main/YT%20API%20Project)
-<br>For this project, I have gathered the data via the YouTube API.
-
-
+<br>The project is based on data of the Samsung channel (downloaded 2025-12-18), obtained from YouTube via API, where I explore channel statistics, content publishing patterns, best- and worst-performing videos, as well as build word clouds for titles, tags, and descriptions.
 
 Thank you for taking the time to explore my portfolio. I hope you have a great day!
