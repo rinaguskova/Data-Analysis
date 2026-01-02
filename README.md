@@ -22,8 +22,7 @@ Below are two projects that demonstrate my approach to building analytical repor
 
 
 **Project 2:** [Samsung YouTube Channel Data Analysis](https://github.com/rinaguskova/Data-Analysis-Portfolio/tree/main/YT%20API%20Project)
-
-For this project, I have gathered the data via the YouTube API.
+<br>For this project, I have gathered the data via the YouTube API.
 
 
 
