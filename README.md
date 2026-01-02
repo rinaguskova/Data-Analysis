@@ -17,6 +17,7 @@ Welcome to my Data Analyst portfolio. I’m Rina, a data analyst with 5 years of
 * 국가공인 자격증. SQL 개발자 (Developer), 2025
 
 Below are two projects that demonstrate my approach to building analytical reports and the logic behind deriving insights and conclusions.
+
 <br>**Project 1:** [Shopping Mall Customers Segmentation](https://github.com/rinaguskova/Data-Analysis-Portfolio/tree/main/Shoppers_Clustering)
 <br>The project is based on open-source data that describes shopping mall customers with spending, income, and other dimensions. There, I divide mall target customers into approachable groups using the K-means Clustering Algorithm, and create subsets of the market based on demographic and behavioral criteria to better understand the target for marketing activities, using summary statistics on the clusters.
 
