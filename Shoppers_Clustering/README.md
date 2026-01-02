@@ -1,10 +1,10 @@
-## Project Overview / 프로젝트 개요:
+## Project Overview / 프로젝트 개요
 * The project is based on open-source data available at https://absentdata.com/wp-content/uploads/2023/03/Mall_Customers.csv
   <br>이 프로젝트는 공개적으로 이용 가능한 오픈소스 데이터를 기반으로 합니다
 * The data describes shopping mall customers with spending, income, and other dimensions.
   <br>해당 데이터는 지출, 소득 및 기타 여러 차원에 걸쳐 쇼핑몰 고객에 대한 정보를 설명합니다
 
-## Project Objective / 프로젝트 목표:
+## Project Objective / 프로젝트 목표
 
 * Understanding the target customers to help marketing team plan customer targeting strategy
   <br>마케팅 팀의 고객 타겟 전략을 수립하는데 있어 도움을 주기 위해 해당 고객을 이해하는 것을 목표로 함.
